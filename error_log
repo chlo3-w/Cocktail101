@@ -1,0 +1,184 @@
+[06-Jan-2017 23:21:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 111
+[06-Jan-2017 23:21:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 111
+[07-Jan-2017 00:06:30 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 120
+[07-Jan-2017 00:06:58 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 120
+[07-Jan-2017 00:06:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 120
+[07-Jan-2017 00:07:13 UTC] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE), expecting ',' or ';' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 120
+[07-Jan-2017 00:07:15 UTC] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE), expecting ',' or ';' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 120
+[07-Jan-2017 00:07:16 UTC] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE), expecting ',' or ';' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 120
+[07-Jan-2017 01:11:42 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:12:46 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:12:47 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:12:48 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:13:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:13:37 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:13:38 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:13:42 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 134
+[07-Jan-2017 01:22:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 154
+[07-Jan-2017 01:24:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 154
+[08-Jan-2017 23:59:40 UTC] PHP Warning:  require_once(checklog3.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/login.php on line 53
+[08-Jan-2017 23:59:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'checklog3.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/login.php on line 53
+[09-Jan-2017 01:47:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/me15cw/public_html/COMM2735/WebApp2/header.html:203) in /home/me15cw/public_html/COMM2735/WebApp2/login.php on line 37
+[09-Jan-2017 14:55:35 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 301
+[09-Jan-2017 14:55:35 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/index.php on line 301
+[09-Jan-2017 15:00:18 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/login.php on line 95
+[09-Jan-2017 15:00:18 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/login.php on line 95
+[09-Jan-2017 15:15:47 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/logout.php on line 8
+[09-Jan-2017 15:15:47 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/logout.php on line 8
+[09-Jan-2017 15:15:47 UTC] PHP Warning:  require_once(footer.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/logout.php on line 13
+[09-Jan-2017 15:15:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/logout.php on line 13
+[09-Jan-2017 15:16:21 UTC] PHP Warning:  require_once(footer.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/logout.php on line 13
+[09-Jan-2017 15:16:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/logout.php on line 13
+[09-Jan-2017 15:18:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/me15cw/public_html/COMM2735/WebApp2/header.html:204) in /home/me15cw/public_html/COMM2735/WebApp2/login.php on line 37
+[09-Jan-2017 15:41:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/me15cw/public_html/COMM2735/WebApp2/header.html:47) in /home/me15cw/public_html/COMM2735/WebApp2/login.php on line 37
+[09-Jan-2017 15:51:55 UTC] PHP Warning:  include_once(header_logged.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:51:55 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:13 UTC] PHP Warning:  include_once(header_logged.html): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:13 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:15 UTC] PHP Warning:  include_once(header_logged.html): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:15 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:16 UTC] PHP Warning:  include_once(header_logged.html): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:16 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:18 UTC] PHP Warning:  include_once(header_logged.html): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:18 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:19 UTC] PHP Warning:  include_once(header_logged.html): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:19 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:51 UTC] PHP Warning:  include_once(header_logged.html): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 15:52:51 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/account.php on line 3
+[09-Jan-2017 16:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/delete_account.php on line 52
+[09-Jan-2017 16:50:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/delete_account.php on line 53
+[09-Jan-2017 17:10:40 UTC] PHP Warning:  include_once(header_logged.php): failed to open stream: No such file or directory in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 3
+[09-Jan-2017 17:10:40 UTC] PHP Warning:  include_once(): Failed opening 'header_logged.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 3
+[09-Jan-2017 20:17:41 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 254
+[09-Jan-2017 21:27:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 99
+[09-Jan-2017 21:35:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 338
+[09-Jan-2017 21:37:39 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND), expecting ')' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:38:00 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:38:02 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:38:30 UTC] PHP Parse error:  syntax error, unexpected ''$comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:38:31 UTC] PHP Parse error:  syntax error, unexpected ''$comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:38:49 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:38:51 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:39:32 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:39:33 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:40:26 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 215
+[09-Jan-2017 21:40:27 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 215
+[09-Jan-2017 21:40:50 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 215
+[09-Jan-2017 21:41:08 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ')' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 215
+[09-Jan-2017 21:44:50 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:44:51 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:44:52 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:44:52 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:44:53 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:44:53 UTC] PHP Parse error:  syntax error, unexpected ''comment'' (T_CONSTANT_ENCAPSED_STRING) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 176
+[09-Jan-2017 21:45:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 297
+[09-Jan-2017 21:45:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 297
+[09-Jan-2017 21:45:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 297
+[09-Jan-2017 21:45:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 297
+[09-Jan-2017 21:45:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 297
+[09-Jan-2017 21:51:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 256
+[09-Jan-2017 23:10:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/me15cw/public_html/COMM2735/WebApp2/db_close.php on line 2
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:14 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:20 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 00:28:21 UTC] PHP Warning:  stristr(): Empty needle in /home/me15cw/public_html/COMM2735/WebApp2/gethint.php on line 39
+[10-Jan-2017 12:44:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 258
+[10-Jan-2017 13:27:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/me15cw/public_html/COMM2735/WebApp2/db_close.php on line 2
+[10-Jan-2017 14:46:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 265
+[10-Jan-2017 14:50:22 UTC] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 14:50:41 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 14:50:42 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 14:50:43 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 14:50:43 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 14:50:44 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 14:50:44 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 14:50:45 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 18:18:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 263
+[10-Jan-2017 20:59:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 20:59:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 200
+[10-Jan-2017 21:08:58 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 196
+[10-Jan-2017 21:09:33 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 196
+[10-Jan-2017 21:09:35 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 196
+[10-Jan-2017 21:09:36 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 196
+[11-Jan-2017 10:23:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 240
+[11-Jan-2017 10:23:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/me15cw/public_html/COMM2735/WebApp2/home.php on line 330
